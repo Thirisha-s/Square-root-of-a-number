@@ -15,8 +15,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
-/*
+```python
 Program to find the square root for the given number(newton's method) using function.
 Developed by: s.thirisha
 RegisterNumber: 22001920
@@ -29,7 +28,6 @@ def squareroot(num1,iterum):
 num1=int(input())
 iterum=100
 squareroot(num1,iterum)
-*/
 ```
 ## Output:
 ![Screenshot_20230119_134933](https://user-images.githubusercontent.com/120380280/213749615-82e3c149-cd50-4624-b601-c983ee31c036.png)
